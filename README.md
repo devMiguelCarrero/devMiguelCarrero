@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devMiguelCarrero
-- 👀 I’m interested in React, Wordpress and Tree.js apps
-- 🌱 I’m currently learning React and Gutenberg
+- 👀 I’m interested in React, Next.js, Wordpress and Tree.js apps
+- 🌱 I’m currently learning Game Development
 - 💞️ I’m looking to collaborate on React Projects
 - 📫 How to reach me developermiguelcarrero@gmail.com
 
